@@ -1,6 +1,4 @@
-package sample;
-
-  class Author {  
+ class Author {  
       private String name, email;  
        private char gender;  
       Author(String name, String email, char gender){  
