@@ -1,7 +1,7 @@
 package sample;
 
 //Java program to Sort a TreeSet with
-//User Defined Objects
+//User Defined Objects 
 
 import java.util.*;
 class students{
