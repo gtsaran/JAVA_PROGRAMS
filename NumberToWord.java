@@ -1,6 +1,6 @@
     class NumberToWord   
     {  
-    //user-defined static method that converts a number into words  
+    //user-defined static method that converts a number into words
     static void numberToWords(char num[])  
     {  
     //determines the number of digits in the given number  
