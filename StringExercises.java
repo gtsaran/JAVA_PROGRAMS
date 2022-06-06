@@ -2,7 +2,7 @@ public class StringExercises {
 
 	public static void main(String[] args) {
 		
-		
+		 
 		//split sentence into words using split()
 		System.out.println("***split sentence into words using split()***");
 		
