@@ -5,7 +5,7 @@ package sample;
 
 import java.util.*;
 class students{
-
+ 
  private int marks;
  private String name;
 
